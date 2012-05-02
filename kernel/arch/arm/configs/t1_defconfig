@@ -2373,6 +2373,11 @@ CONFIG_FMRADIO=y
 CONFIG_SAMSUNG_PARAM=m
 
 #
+# Samsung J4FS Filesystem Support
+#
+CONFIG_SAMSUNG_J4FS=m
+
+#
 # Immersion touch sense driver(vibetonz)
 #
 CONFIG_SAMSUNG_VIBETONZ=m
